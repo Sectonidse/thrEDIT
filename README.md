@@ -1,6 +1,11 @@
 # ![logo](https://github.com/Sectonidse/thrEDIT/blob/main/images/icon.png) thrEDIT
 Scene Editor with more features.
 
+> [!IMPORTANT]
+> This project is no longer being worked on, or rather, it's just cancelled. In favor of Thr3Dit, however!
+>
+> Unlike this project, Thr3Dit will be a desktop application.
+
 ## Planned features
 * [X] Modern Interface (Still in development, but mostly done)
 * [X] Blender-like mouse controls
